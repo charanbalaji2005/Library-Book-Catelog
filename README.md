@@ -1,9 +1,11 @@
 # 📚 Library Book Catalog (MERN Stack)
-
 ## 🎥 Project Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/o4X8YpwEQWw/0.jpg)](https://youtu.be/o4X8YpwEQWw)
-
+<p align="center">
+  <a href="https://youtu.be/o4X8YpwEQWw">
+    <img src="https://img.youtube.com/vi/o4X8YpwEQWw/maxresdefault.jpg" width="600" alt="Watch Demo"/>
+  </a>
+</p>
 A full-featured **Library Management System** built using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** with a modern white & blue UI/UX design.
 
 ---
